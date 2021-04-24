@@ -6,5 +6,5 @@ Para acessar o site precisa do Node.js instalado;
 
 É necessário instalar o no terminal: npm install react-router-dom
 
-e : npm install leaflet react-leaflet    /   
-    npm install @types/react-leaflet -D
+e : 'npm install leaflet react-leaflet'      
+    'npm install @types/react-leaflet -D'
